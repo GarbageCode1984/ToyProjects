@@ -1,4 +1,4 @@
-# ToyProjects
+ToyProjects
 =============
 
 rock-paper-scissors
